@@ -1,0 +1,27 @@
+.div{
+    width:100%;
+    border: solid blue ;
+    border-collapse: collapse;
+}
+.person_nom{
+    width :60%;
+    color:white;
+    background-color:black;
+    font-size:16px;
+}
+td{
+    border-color: black ;
+}
+.html{
+    color:white;
+    background-color:black;
+    width:25%;
+}
+.css{
+    color:white;
+    background-color:black; 
+    width:15%;
+}
+td{
+    background-color: rgb(121, 226, 151);
+}
